@@ -41,7 +41,7 @@
 
 ## :pencil: Sobre o projeto
 
-No ambiente de óleo e gás, áreas restritas são acessadas apenas por pessoas autorizadas para manutenções específicas e o monitoramento dessas áreas é feito por câmeras supervisionadas pela equipe de segurança. No entanto, devido ao grande número de câmeras e à dependência de interação humana, falhas ocorrem frequentemente. 
+O projeto, realizado em parceria com a Altave, foca no desenvolvimento de um sistema de monitoramento de acesso a áreas restritas no setor de óleo e gás, áreas restritas são acessadas apenas por pessoas autorizadas para manutenções específicas e o monitoramento dessas áreas é feito por câmeras supervisionadas pela equipe de segurança. No entanto, devido ao grande número de câmeras e à dependência de interação humana, falhas ocorrem frequentemente. 
 
 A proposta é mitigar esses erros com sensores nas portas de acesso que ao serem abertas geram um aviso de acesso e a equipe de segurança informará se o acesso foi autorizado. 
 
