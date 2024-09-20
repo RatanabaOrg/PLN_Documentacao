@@ -10,6 +10,7 @@
     <a href="#entrega">Entregas</a> |
     <a href="#backlog">Backlog</a> |  
     <a href="#modelo">Diagrama</a> | 
+    <a href="#pasta">Pasta</a> | 
     <a href="#manuais">Manuais</a> |
     <a href="#equipe">Equipe</a>
 </p>
@@ -102,11 +103,23 @@ Confira o design inicial:
 
 <br>
 
+<span id="pasta">
+
+## :file_folder: Conteúdo da Pasta docs
+
+Na pasta `docs` deste repositório, você encontrará dois arquivos essenciais para o projeto:
+
+Modelagem de Dados (modelagem_dados.png): Este arquivo contém o diagrama de banco de dados, oferecendo uma visão detalhada da estrutura e relacionamento entre as entidades do sistema.
+
+Requisitos (Prequisitos_cliente.pdf): Um documento que descreve os requisitos funcionais e não funcionais do sistema, incluindo informações sobre as funcionalidades essenciais, como cadastro de usuários, monitoramento de acessos e análise de incidentes.
+
+<br>
+
 <span id="modelo">
 
  ## :cloud: Modelo do banco de bados
 
-![diagramaAltave](https://github.com)
+![diagramaAltave](docs/requisitos_cliente.png)
 
 <br>
 
@@ -114,13 +127,21 @@ Confira o design inicial:
 
  ## :scroll: Manual de instalação e do usuário
 
-1. Siga os passos do manual de instalação do backend, o link se encontra abaixo:
+Para garantir o bom funcionamento do sistema em seu ambiente local, é necessário instalar o Node.js. Siga os passos abaixo para preparar seu ambiente:
+
+1. Instalação do Node.js:
+
+  ```
+  https://nodejs.org/pt/download/prebuilt-installer
+  ```
+
+2. Siga os passos do manual de instalação do backend, o link se encontra abaixo:
 
   ```
   https://github.com/RatanabaOrg/PLN_Back_End
   ```
 
-2. Siga os passos do manual de instalação do frontend, o link se encontra abaixo:
+3. Siga os passos do manual de instalação do frontend, o link se encontra abaixo:
 
   ```
   https://github.com/RatanabaOrg/PLN_Front_End
