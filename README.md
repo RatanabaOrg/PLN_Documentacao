@@ -118,8 +118,9 @@ Requisitos (Prequisitos_cliente.pdf): Um documento que descreve os requisitos fu
 <span id="modelo">
 
  ## :cloud: Modelo do banco de bados
-
-![diagramaAltave](docs/modelagem_dados.png)
+<div align="center">
+    <img src="https://github.com/RatanabaOrg/PLN_Documentacao/blob/main/docs/modelagem_dados.png?raw=true" alt="Modelo de Dados">
+</div>
 
 <br>
 
