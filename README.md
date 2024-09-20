@@ -119,7 +119,7 @@ Requisitos (Prequisitos_cliente.pdf): Um documento que descreve os requisitos fu
 
  ## :cloud: Modelo do banco de bados
 
-![diagramaAltave](docs/requisitos_cliente.png)
+![diagramaAltave](docs/modelagem_dados.png)
 
 <br>
 
