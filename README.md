@@ -72,7 +72,7 @@ Confira o design inicial:
 ## 🏁 Entregas de Sprints
 | Sprint |         Datas           |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
-|   01   | 09/09/2024 à 29/09/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/doc/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/PLN_Documentacao/releases/tag/v1.0.0)|
+|   01   | 09/09/2024 à 29/09/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/docs/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/PLN_Documentacao/releases/tag/v1.0.0)|
 |   02   | 07/10/2024 à 27/10/2024 |  Em andamento 🕒 | - | - |
 |   03   | 04/11/2024 à 24/11/2024 |  Não iniciada ❌ | - | - |
 
