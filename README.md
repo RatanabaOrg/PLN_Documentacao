@@ -23,15 +23,15 @@
  <a href="https://www.typescriptlang.org/" target="blank"><img align="center" src="https://img.shields.io/badge/TypeScript-20232A?style=for-the-badge&logo=typescript&logoColor=007ACC" alt="type script"/></a> 
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/HTML" target="blank"><img align="center" src="https://img.shields.io/badge/HTML5-20232A?style=for-the-badge&logo=html5&logoColor=orange" alt="html"/></a>
  <a href="https://developer.mozilla.org/pt-BR/docs/Web/CSS" target="blank"><img align="center" src="https://img.shields.io/badge/CSS3-20232A?style=for-the-badge&logo=css3&logoColor=blue" alt="css"/></a> 
-
  <a href="https://www.mongodb.com/pt-br" target="blank"><img align="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-20232A?style=for-the-badge&logo=mongodb&logoColor=4EA94B" alt="mongo db"/></a> 
+
  <a href="https://www.atlassian.com/br/software/jira/guides/getting-started/introduction" target="blank"><img align="center" src="https://img.shields.io/badge/Jira-20232A?style=for-the-badge&logo=Jira&logoColor=blue" alt="jira"/></a>
- <a href="https://www.docker.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2CA5E0" alt="docker"/>
+ <a href="https://www.docker.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=2CA5E0" alt="docker"/></a>
  <a href="http://www.figma.com" target="blank"><img align="center" src="https://img.shields.io/badge/Figma-20232A?style=for-the-badge&logo=figma&logoColor=white" alt="figma"/></a> 
  <a href="https://code.visualstudio.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Visual_Studio_Code-20232A?style=for-the-badge&logo=visual%20studio%20code&logoColor=blue" alt="visual studio code"/></a> 
  <a href="https://slack.com/intl/pt-br" target="blank"><img align="center" src="https://img.shields.io/badge/Slack-20232A?style=for-the-badge&logo=slack&logoColor=4A154B" alt="slack"/></a>
  <a href="https://aws.amazon.com/pt/free" target="blank"><img align="center" src="https://img.shields.io/badge/AWS-20232A?style=for-the-badge&logo=amazon-aws&logoColor=white" alt="aws"/></a>
- <a href="https://vercel.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/>
+ <a href="https://vercel.com/" target="blank"><img align="center" src="https://img.shields.io/badge/Vercel-20232A?style=for-the-badge&logo=vercel&logoColor=white" alt="vercel"/></a>
  <a href="https://github.com/" target="blank"><img align="center" src="https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=github&logoColor=white" alt="github"/></a> 
 
 </div> 
@@ -51,7 +51,9 @@ No sistema permitirá análise periódica dos dados, exibindo gráficos sobre o 
 Confira o design inicial:
 
  - Mockup: [clique e veja através no Figma](https://www.figma.com/design/BgIaM61bI3gERx69T6n6ap/API-6-Altave?node-id=0-1&t=5mNhBT41RAxAD8zG-1) 
- - Protótipo navegável: [navegue entre as páginas](https://www.figma.com)
+
+
+[Requisitos.pdf](https://github.com/RatanabaOrg/PLN_Documentacao/blob/main/docs/requisitos_cliente.pdf?raw=true)
 
 <br>
 
@@ -70,8 +72,8 @@ Confira o design inicial:
 ## 🏁 Entregas de Sprints
 | Sprint |         Datas           |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
-|   01   | 09/09/2024 à 29/09/2024 |  Em andamento 🕒 | [Ver](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/doc/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/PLN_Documentacao/releases/tag/v1.0.0)|
-|   02   | 07/10/2024 à 27/10/2024 |  Não iniciada ❌ | - | - |
+|   01   | 09/09/2024 à 29/09/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/doc/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/PLN_Documentacao/releases/tag/v1.0.0)|
+|   02   | 07/10/2024 à 27/10/2024 |  Em andamento 🕒 | - | - |
 |   03   | 04/11/2024 à 24/11/2024 |  Não iniciada ❌ | - | - |
 
 <br>
@@ -84,22 +86,22 @@ Confira o design inicial:
 
 | SPRINT | CÓDIGO | DESCRIÇÃO                                                                           | STATUS |
 | :----: | :----: | :---------------------------------------------------------------------------------- | :----: |
-|   1    |  RF1   | Interface de administrador, com cadastro de usuários e áreas                        |   🕒  |
-|   1    |  RF2   | Interface de visualização dos acessos realizados                                    |   🕒  |
-|   2    |  RF3   | Dashboard com histórico de acessos                                                  |    -   |
-|   2    |  RF4   | Responsividade                                                                      |    -   |
+|   1    |  RF1   | Interface de administrador, com cadastro de usuários e áreas                        |   ✅  |
+|   1    |  RF2   | Interface de visualização dos acessos realizados                                    |   ✅  |
+|   2    |  RF3   | Dashboard com histórico de acessos                                                  |   🕒  |
+|   2    |  RF4   | Responsividade                                                                      |   🕒  |
 |   3    |  RF5   | ChatBot de auxílio a utilização do sistema                                          |    -   |
 |   3    |  RF6   | Hospedagem em nuvem                                                                 |    -   |
 
 #### Requisitos Não Funcionais  
 
-| CÓDIGO | DESCRIÇÃO                                            | STATUS |
-| :----: | :--------------------------------------------------- | :----: |
-|  RNF1  | Guia de instalação, GitHub e hospedagem              |    -   |
-|  RNF2  | Manual do usuário                                    |    -   |
-|  RNF3  | Modelagem de banco de dados                          |    -   |
-|  RNF4  | Desejável que o sistema seja acessível online        |    -   |
-|  RNF5  | Desenvolver um simulador do sensor de porta          |    -   |
+| SPRINT | CÓDIGO | DESCRIÇÃO                                            | STATUS |
+| :----: | :----: | :--------------------------------------------------- | :----: |
+|   1    |  RNF1  | Guia de instalação, GitHub                           |   ✅   |
+|   2    |  RNF2  | Manual do usuário                                    |    -   |
+|   1    |  RNF3  | Modelagem de banco de dados                          |   ✅   |
+|   3    |  RNF4  | Desejável que o sistema seja acessível online        |    -   |
+|   1    |  RNF5  | Desenvolver um simulador do sensor de porta          |   ✅   |
 
 <br>
 
@@ -107,11 +109,19 @@ Confira o design inicial:
 
 ## :file_folder: Conteúdo da Pasta docs
 
-Na pasta `docs` deste repositório, você encontrará dois arquivos essenciais para o projeto:
+Na pasta `docs` deste repositório, você encontrará arquivos essenciais para o projeto:
 
-Modelagem de Dados (modelagem_dados.png): Este arquivo contém o diagrama de banco de dados, oferecendo uma visão detalhada da estrutura e relacionamento entre as entidades do sistema.
+- **modelagem_dados.png**: Este arquivo contém o diagrama de banco de dados, oferecendo uma visão detalhada da estrutura e relacionamento entre as entidades do sistema.
 
-Requisitos (Prequisitos_cliente.pdf): Um documento que descreve os requisitos funcionais e não funcionais do sistema, incluindo informações sobre as funcionalidades essenciais, como cadastro de usuários, monitoramento de acessos e análise de incidentes.
+- **requisitos_cliente.pdf**: Um documento fornecido pela faculdade e elaborado em conjunto com o cliente, que descreve os requisitos funcionais e não funcionais do sistema, incluindo informações sobre as funcionalidades essenciais, como cadastro de usuários, monitoramento de acessos e análise de incidentes.
+
+- **manual_usuario.pdf**: Este arquivo fornece um guia completo para o usuário, detalhando como utilizar todas as funcionalidades do sistema e orientações sobre o processo de cadastro, login e monitoramento.
+
+
+Você encontrará pastas das **Entregas de Sprint** que seguem o padrão Sprint_(numero da sprint) : 
+- Sprint_1
+- Sprint_2
+- Sprint_3
 
 <br>
 
@@ -136,19 +146,19 @@ Para garantir o bom funcionamento do sistema em seu ambiente local, é necessár
   https://nodejs.org/pt/download/prebuilt-installer
   ```
 
-2. Siga os passos do manual de instalação do backend, o link se encontra abaixo:
+2. Siga os passos do manual de instalação do **Backend**, o link se encontra abaixo:
 
   ```
   https://github.com/RatanabaOrg/PLN_Back_End
   ```
 
-3. Siga os passos do manual de instalação do frontend, o link se encontra abaixo:
+3. Siga os passos do manual de instalação do **Frontend**, o link se encontra abaixo:
 
   ```
   https://github.com/RatanabaOrg/PLN_Front_End
   ```
 
-[Manual do usuario.pdf](https://github.com)
+[Manual do usuario.pdf](https://github.com/RatanabaOrg/PLN_Documentacao/blob/main/docs/manual_usuario.pdf?raw=true)
 
  <br>
 
