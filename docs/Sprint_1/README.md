@@ -40,7 +40,6 @@
 | CÓDIGO | DESCRIÇÃO                                            |
 | :----: | :--------------------------------------------------- |
 |  RNF1  | Guia de instalação, GitHub                           |
-|  RNF2  | Manual do usuário                                    |
 |  RNF3  | Modelagem de banco de dados                          |
 |  RNF5  | Desenvolver um simulador do sensor de porta          |
 
@@ -50,8 +49,8 @@
 
 ## :chart_with_downwards_trend: Burndown 
 <div align="center">
-
-![burndown_1](https://github.com/RatanabaOrg/)
+    
+![burndown_1](https://github.com/user-attachments/assets/b49898ed-04ff-40a1-bee2-6f63907c3aec)
 
 </div>
 
