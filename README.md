@@ -119,7 +119,7 @@ Na pasta `docs` deste repositório, você encontrará arquivos essenciais para o
 
 
 Você encontrará pastas das **Entregas de Sprint** que seguem o padrão Sprint_(numero da sprint) : 
-- Sprint_1
+- [Sprint_1](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/docs/Sprint_1)
 - Sprint_2
 - Sprint_3
 
