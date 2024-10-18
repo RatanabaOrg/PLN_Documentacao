@@ -88,10 +88,11 @@ Confira o design inicial:
 | :----: | :----: | :---------------------------------------------------------------------------------- | :----: |
 |   1    |  RF1   | Interface de administrador, com cadastro de usuários e áreas                        |   ✅  |
 |   1    |  RF2   | Interface de visualização dos acessos realizados                                    |   ✅  |
-|   2    |  RF3   | Dashboard com histórico de acessos                                                  |   🕒  |
-|   2    |  RF4   | Responsividade                                                                      |   🕒  |
-|   3    |  RF5   | ChatBot de auxílio a utilização do sistema                                          |    -   |
-|   3    |  RF6   | Hospedagem em nuvem                                                                 |    -   |
+|   2    |  RF3   | Alerta de acessos não autorizados                                                   |   ✅  |
+|   2    |  RF4   | Dashboard com histórico de acessos                                                  |   🕒  |
+|   2    |  RF5   | Responsividade                                                                      |   🕒  |
+|   3    |  RF6   | ChatBot de auxílio a utilização do sistema                                          |    -   |
+|   3    |  RF7   | Hospedagem em nuvem                                                                 |    -   |
 
 #### Requisitos Não Funcionais  
 
