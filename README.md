@@ -73,7 +73,7 @@ Confira o design inicial:
 | Sprint |         Datas           |      Status      |     Relatório     |   Tag   |
 | :----: | :---------------------: | :--------------: | :---------------: | :------:|
 |   01   | 09/09/2024 à 29/09/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/docs/Sprint_1) 👁️ | [1.0.0](https://github.com/RatanabaOrg/PLN_Documentacao/releases/tag/v1.0.0)|
-|   02   | 07/10/2024 à 27/10/2024 |  Em andamento 🕒 | - | - |
+|   02   | 07/10/2024 à 27/10/2024 |  Finalizado ✔️  | [Ver](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/docs/Sprint_2) 👁️ | [2.0.0](https://github.com/RatanabaOrg/PLN_Documentacao/releases/tag/v2.0.0)|
 |   03   | 04/11/2024 à 24/11/2024 |  Não iniciada ❌ | - | - |
 
 <br>
@@ -89,8 +89,8 @@ Confira o design inicial:
 |   1    |  RF1   | Interface de administrador, com cadastro de usuários e áreas                        |   ✅  |
 |   1    |  RF2   | Interface de visualização dos acessos realizados                                    |   ✅  |
 |   2    |  RF3   | Alerta de acessos não autorizados                                                   |   ✅  |
-|   2    |  RF4   | Dashboard com histórico de acessos                                                  |   🕒  |
-|   2    |  RF5   | Responsividade                                                                      |   🕒  |
+|   2    |  RF4   | Dashboard com histórico de acessos                                                  |   ✅  |
+|   2    |  RF5   | Responsividade                                                                      |   ✅  |
 |   3    |  RF6   | ChatBot de auxílio a utilização do sistema                                          |    -   |
 |   3    |  RF7   | Hospedagem em nuvem                                                                 |    -   |
 
@@ -99,7 +99,7 @@ Confira o design inicial:
 | SPRINT | CÓDIGO | DESCRIÇÃO                                            | STATUS |
 | :----: | :----: | :--------------------------------------------------- | :----: |
 |   1    |  RNF1  | Guia de instalação, GitHub                           |   ✅   |
-|   2    |  RNF2  | Manual do usuário                                    |    -   |
+|   2    |  RNF2  | Manual do usuário                                    |   ✅   |
 |   1    |  RNF3  | Modelagem de banco de dados                          |   ✅   |
 |   3    |  RNF4  | Desejável que o sistema seja acessível online        |    -   |
 |   1    |  RNF5  | Desenvolver um simulador do sensor de porta          |   ✅   |
@@ -119,9 +119,9 @@ Na pasta `docs` deste repositório, você encontrará arquivos essenciais para o
 - **manual_usuario.pdf**: Este arquivo fornece um guia completo para o usuário, detalhando como utilizar todas as funcionalidades do sistema e orientações sobre o processo de cadastro, login e monitoramento.
 
 
-Você encontrará pastas das **Entregas de Sprint** que seguem o padrão Sprint_(numero da sprint) : 
+Você encontrará pastas das **Entregas de Sprint** que seguem o padrão Sprint_(número da sprint): 
 - [Sprint_1](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/docs/Sprint_1)
-- Sprint_2
+- [Sprint_2](https://github.com/RatanabaOrg/PLN_Documentacao/tree/main/docs/Sprint_2)
 - Sprint_3
 
 <br>

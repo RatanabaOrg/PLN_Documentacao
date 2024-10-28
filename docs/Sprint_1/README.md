@@ -20,7 +20,8 @@
  Nessa sprint entregamos:
  - o login, cadastro de contas, aprovação de contas, visualização das contas aprovadas;
  - tela de últimos acessos(do dia atual), histórico dos acessos;
- - cadastro de áreas e visualização das áreas cadastradas.
+ - cadastro de áreas e visualização das áreas cadastradas;
+ - interface de administrador e funcionário separadas.
 
 <br>
 
@@ -34,6 +35,7 @@
 | :----: | :-------------------------------------------------------------- |
 |  RF1   | Interface de administrador, com cadastro de usuários e áreas    |
 |  RF2   | Interface de visualização dos acessos realizados                |
+|  RF3   | Alerta de acessos não autorizados                               |
 
 #### Requisitos Não Funcionais  
 
