@@ -28,8 +28,9 @@
 ## :chart_with_downwards_trend: Burndown 
 <div align="center">
     
-![burndown_2](https://github.com/user-attachments/assets/b49898ed-04ff-40a1-bee2-6f63907c3aec)
+![burndown_2](https://github.com/user-attachments/assets/bcd206c0-da25-4cde-a645-d5b59ccc9729)
 
 </div>
+
 
 <a href="https://github.com/RatanabaOrg/PLN_Documentacao/tree/main">Voltar a tela anterior</a>
