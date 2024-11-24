@@ -1,6 +1,6 @@
 <div align="center" id="menu">
 
-<h1> Relatório da Sprint 2 </h1>
+<h1> Relatório da Sprint 3 </h1>
 
 <p>
     <a href="#solucao">Solução</a> | 
@@ -18,11 +18,10 @@
 
 ## :pencil: Soluções
  Nessa sprint entregamos:
- - tela de alerta de acessos não autorizados;
- - junção da tela de últimos acessos(do dia atual) com a tela de histórico dos acessos, as separando através de filtragem;
- - dashboard com filtragem de todas as áreas e por área;
- - dashboard com gráfico de número de acessos por período de tempo;
- - responsividade para celular, tablet, notebook e computador.
+ - chatbot auxiliando a como utilizar o sistema;
+ - card na dashboard informando quanto tempo a área está sem acesso;
+ - container com docker;
+ - hospedagem na aws.
 
 <br>
 
@@ -34,15 +33,14 @@
 
 | CÓDIGO | DESCRIÇÃO                                                       |
 | :----: | :-------------------------------------------------------------- |
-|  RF3   | Alerta de acessos não autorizados                               |
-|  RF4   | Dashboard com histórico de acessos                              |
-|  RF5   | Responsividade                                                  |
+|  RF6   | ChatBot de auxílio a utilização do sistema                      |
+|  RF7   | Hospedagem em nuvem                                             |
 
 #### Requisitos Não Funcionais  
 
 | CÓDIGO | DESCRIÇÃO                                                |
 | :----: | :------------------------------------------------------- |
-|  RNF2  | Manual do usuário                                        |
+|  RNF4  | Desejável que o sistema seja acessível online            |
 
 <br>
 

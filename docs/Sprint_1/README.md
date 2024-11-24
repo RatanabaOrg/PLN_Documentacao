@@ -14,7 +14,7 @@
 
 <br>
 
- <span id="solucao">
+<span id="solucao">
 
 ## :pencil: Soluções
  Nessa sprint entregamos:
@@ -35,15 +35,14 @@
 | :----: | :-------------------------------------------------------------- |
 |  RF1   | Interface de administrador, com cadastro de usuários e áreas    |
 |  RF2   | Interface de visualização dos acessos realizados                |
-|  RF3   | Alerta de acessos não autorizados                               |
 
 #### Requisitos Não Funcionais  
 
-| CÓDIGO | DESCRIÇÃO                                            |
-| :----: | :--------------------------------------------------- |
-|  RNF1  | Guia de instalação, GitHub                           |
-|  RNF3  | Modelagem de banco de dados                          |
-|  RNF5  | Desenvolver um simulador do sensor de porta          |
+| CÓDIGO | DESCRIÇÃO                                                |
+| :----: | :------------------------------------------------------- |
+|  RNF1  | Guia de instalação, GitHub                               |
+|  RNF3  | Modelagem de banco de dados                              |
+|  RNF5  | Desenvolver um simulador do sensor de porta              |
 
 <br>
 
