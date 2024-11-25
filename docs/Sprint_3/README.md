@@ -19,7 +19,6 @@
 ## :pencil: Soluções
  Nessa sprint entregamos:
  - chatbot auxiliando a como utilizar o sistema;
- - card na dashboard informando quanto tempo a área está sem acesso;
  - container com docker;
  - hospedagem na aws.
 
