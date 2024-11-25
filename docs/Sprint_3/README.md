@@ -48,8 +48,8 @@
 
 ## :chart_with_downwards_trend: Burndown 
 <div align="center">
-    
-![burndown_2](https://github.com/user-attachments/assets/bcd206c0-da25-4cde-a645-d5b59ccc9729)
+
+![burndown_3](https://github.com/user-attachments/assets/026c1a2f-3b30-4f4d-a161-608b772133e6)
 
 </div>
 
